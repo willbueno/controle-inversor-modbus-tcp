@@ -1,6 +1,7 @@
 # controle-inversor-modbus-tcp
 
 Projeto final da disciplina de Instrumentação Eletrônica (UFSM).
+
 Integrantes: Davi Calil, Douglas Maciel, Marcos Silveira, William Rocha
 
 O trabalho foi realizado no laboratório do NUPEEDE (Núcleo de Pesquisa e
